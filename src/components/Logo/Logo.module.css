@@ -1,0 +1,35 @@
+.logo {
+  padding: 1rem 1rem 0rem 1rem;
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+.logo_container {
+  display: flex;
+  width: 60px;
+  height: 60px;
+  gap: 1px;
+}
+.logo_container>div {
+  flex: 1;
+  height: 100%;
+  background: var(--border-color);
+  border-radius: 1rem;
+}
+.logo_container>div:nth-child(odd) {
+  height: 100%;
+}
+.logo_container>div:nth-child(even) {
+  height: 50%;
+}
+.title>h3 {
+  width: fit-content;
+  font-size: 2rem;
+  color: var(--border-color);
+  font-weight: 800;
+  border-bottom: 2px solid var(--border-color);
+}
+.title>h5 {
+  font-size: 1rem;
+  color: #aa7374;
+}

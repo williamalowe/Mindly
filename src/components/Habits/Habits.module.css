@@ -1,0 +1,9 @@
+.habits {
+  width: 100%;
+  height: 100%;
+  border: 2px solid #EEA5A6;
+  border-radius: 2rem;
+  box-sizing: border-box;
+  background-color: #fff;
+  overflow: hidden;
+}
