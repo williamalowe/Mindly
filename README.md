@@ -1,2 +1,2 @@
 # Present
-Project: Mindful | William Lowe - is a combination dashboard for storing notes, reminders, and habits.
+Project: Mindly | William Lowe - is a combination dashboard for storing notes, reminders, and habits.
