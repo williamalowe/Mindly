@@ -1,0 +1,11 @@
+.header {
+  height: 100px;
+  background: var(--border-color);
+  display: grid;
+  place-content: center;
+}
+.header>h3 {
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  color: #fff;
+}
